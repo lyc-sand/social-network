@@ -1,0 +1,18 @@
+- Nom du réseu social
+- Les fonctions du réseau social
+
+Pages:
+- Index
+- Landing page
+- Page de login
+- Page de message (réception, envoi)
+- Page de profil + Edit
+- Page de politiques (confidentialitées)
+
+Langage:
+- HTML, CSS, JS
+- Python, JSON
+
+Hébergement:
+- Github (serveur web)
+- MongoDB (base de données no sql)
